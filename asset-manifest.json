@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "https://sta.infinitefrontier.sg/static/css/main.c5427fdb.chunk.css",
+    "main.js": "https://sta.infinitefrontier.sg/static/js/main.9eda1d77.chunk.js",
+    "main.js.map": "https://sta.infinitefrontier.sg/static/js/main.9eda1d77.chunk.js.map",
+    "runtime-main.js": "https://sta.infinitefrontier.sg/static/js/runtime-main.ba858364.js",
+    "runtime-main.js.map": "https://sta.infinitefrontier.sg/static/js/runtime-main.ba858364.js.map",
+    "static/js/2.c7bec4b1.chunk.js": "https://sta.infinitefrontier.sg/static/js/2.c7bec4b1.chunk.js",
+    "static/js/2.c7bec4b1.chunk.js.map": "https://sta.infinitefrontier.sg/static/js/2.c7bec4b1.chunk.js.map",
+    "index.html": "https://sta.infinitefrontier.sg/index.html",
+    "precache-manifest.c6365f41cd212a32edb3435257c4e528.js": "https://sta.infinitefrontier.sg/precache-manifest.c6365f41cd212a32edb3435257c4e528.js",
+    "service-worker.js": "https://sta.infinitefrontier.sg/service-worker.js",
+    "static/css/main.c5427fdb.chunk.css.map": "https://sta.infinitefrontier.sg/static/css/main.c5427fdb.chunk.css.map",
+    "static/media/footer-bg.svg": "https://sta.infinitefrontier.sg/static/media/footer-bg.229073e9.svg",
+    "static/media/green-fill.svg": "https://sta.infinitefrontier.sg/static/media/green-fill.9dd0b92d.svg",
+    "static/media/logo.svg": "https://sta.infinitefrontier.sg/static/media/logo.c8291941.svg",
+    "static/media/styles.global.scss": "https://sta.infinitefrontier.sg/static/media/open-sans-v17-latin-regular.de0869e3.woff",
+    "static/media/purple-wave.svg": "https://sta.infinitefrontier.sg/static/media/purple-wave.63672297.svg",
+    "static/media/red-fill.svg": "https://sta.infinitefrontier.sg/static/media/red-fill.c65ffdea.svg",
+    "static/media/splash.svg": "https://sta.infinitefrontier.sg/static/media/splash.8337bc1d.svg",
+    "static/media/why-1.svg": "https://sta.infinitefrontier.sg/static/media/why-1.0393bb98.svg",
+    "static/media/why-2.svg": "https://sta.infinitefrontier.sg/static/media/why-2.358d0a50.svg",
+    "static/media/why-3.svg": "https://sta.infinitefrontier.sg/static/media/why-3.aaf9908a.svg",
+    "static/media/why-bg.svg": "https://sta.infinitefrontier.sg/static/media/why-bg.586fc45e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba858364.js",
+    "static/js/2.c7bec4b1.chunk.js",
+    "static/css/main.c5427fdb.chunk.css",
+    "static/js/main.9eda1d77.chunk.js"
+  ]
+}
