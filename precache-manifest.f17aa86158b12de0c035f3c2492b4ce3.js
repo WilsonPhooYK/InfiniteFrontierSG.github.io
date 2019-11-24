@@ -1,23 +1,103 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f65574f20db288a21888b56efec4bf0",
+    "revision": "7531ffc10582c4534bca656278193b2e",
     "url": "https://sta.infinitefrontier.sg/index.html"
   },
   {
-    "revision": "c825b418920886740059",
-    "url": "https://sta.infinitefrontier.sg/static/css/main.c5427fdb.chunk.css"
+    "revision": "9ee84575d33c5e0d4038",
+    "url": "https://sta.infinitefrontier.sg/static/css/2.8c1ffbf2.chunk.css"
   },
   {
-    "revision": "6b40f80c269976092b6d",
-    "url": "https://sta.infinitefrontier.sg/static/js/2.c7bec4b1.chunk.js"
+    "revision": "1b1f3f94e7a6076a4848",
+    "url": "https://sta.infinitefrontier.sg/static/css/main.d1e43843.chunk.css"
   },
   {
-    "revision": "c825b418920886740059",
-    "url": "https://sta.infinitefrontier.sg/static/js/main.9eda1d77.chunk.js"
+    "revision": "9ee84575d33c5e0d4038",
+    "url": "https://sta.infinitefrontier.sg/static/js/2.8d52d259.chunk.js"
+  },
+  {
+    "revision": "1b1f3f94e7a6076a4848",
+    "url": "https://sta.infinitefrontier.sg/static/js/main.6120017a.chunk.js"
   },
   {
     "revision": "5621a3c1d88c500d285d",
     "url": "https://sta.infinitefrontier.sg/static/js/runtime-main.ba858364.js"
+  },
+  {
+    "revision": "894e230cd2af3d751d89f4d457e35984",
+    "url": "https://sta.infinitefrontier.sg/static/media/curve-arrow.894e230c.svg"
+  },
+  {
+    "revision": "83c669c8bda3c34c1f2e24e33795741e",
+    "url": "https://sta.infinitefrontier.sg/static/media/ellipse.83c669c8.svg"
+  },
+  {
+    "revision": "06147b6cd88c7346cecd1edd060cd5de",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-brands-400.06147b6c.ttf"
+  },
+  {
+    "revision": "5063b105c7646c8043d58c5289f02cca",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-brands-400.5063b105.eot"
+  },
+  {
+    "revision": "a9c4bb7348f42626454c988dbde1d0a0",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-brands-400.a9c4bb73.svg"
+  },
+  {
+    "revision": "c5e0f14f88a828261ba01558ce2bf26f",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-brands-400.c5e0f14f.woff"
+  },
+  {
+    "revision": "cccc9d29470e879e40eb70249d9a2705",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-brands-400.cccc9d29.woff2"
+  },
+  {
+    "revision": "65b286af947c0d982ca01b40e1fcab38",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-regular-400.65b286af.ttf"
+  },
+  {
+    "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-regular-400.7b9568e6.svg"
+  },
+  {
+    "revision": "c1a866ec0e04a5e1915b41fcf261457c",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-regular-400.c1a866ec.eot"
+  },
+  {
+    "revision": "c4f508e7c4f01a9eeba7f08155cde04e",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-regular-400.c4f508e7.woff"
+  },
+  {
+    "revision": "f5f2566b93e89391da4db79462b8078b",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-regular-400.f5f2566b.woff2"
+  },
+  {
+    "revision": "0bff33a5fd7ec390235476b4859747a0",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-solid-900.0bff33a5.ttf"
+  },
+  {
+    "revision": "333bae208dc363746961b234ff6c2500",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-solid-900.333bae20.woff"
+  },
+  {
+    "revision": "44d537ab79f921fde5a28b2c1636f397",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-solid-900.44d537ab.woff2"
+  },
+  {
+    "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-solid-900.8e4a6dcc.eot"
+  },
+  {
+    "revision": "c2801fb415f03c7b170934769d7b5397",
+    "url": "https://sta.infinitefrontier.sg/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  {
+    "revision": "5a2ae577535054c4e298e23f51f7fce0",
+    "url": "https://sta.infinitefrontier.sg/static/media/facebook-messenger.5a2ae577.svg"
+  },
+  {
+    "revision": "6b65f8824697ccb26c81867d1bd8c4d8",
+    "url": "https://sta.infinitefrontier.sg/static/media/facebook.6b65f882.svg"
   },
   {
     "revision": "229073e961d5eb92aa31d20f3e8ecada",
@@ -28,8 +108,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://sta.infinitefrontier.sg/static/media/green-fill.9dd0b92d.svg"
   },
   {
+    "revision": "7495b94ccfe1a3f7c1ed48c661adea2d",
+    "url": "https://sta.infinitefrontier.sg/static/media/green-wavy.7495b94c.svg"
+  },
+  {
+    "revision": "901419c3302c28258c26c78592dfeafa",
+    "url": "https://sta.infinitefrontier.sg/static/media/instagram.901419c3.svg"
+  },
+  {
     "revision": "c82919418fb12ca6b66ad9c739b22c6b",
     "url": "https://sta.infinitefrontier.sg/static/media/logo.c8291941.svg"
+  },
+  {
+    "revision": "4904275ba4e80ce4e693ee9d2c0eab47",
+    "url": "https://sta.infinitefrontier.sg/static/media/octagon-1.4904275b.svg"
+  },
+  {
+    "revision": "2aa9cca9117ffd144ecdb5fbab870f37",
+    "url": "https://sta.infinitefrontier.sg/static/media/octagon-2.2aa9cca9.svg"
+  },
+  {
+    "revision": "0b50f54cbb9cf7801109e74d7bc89a61",
+    "url": "https://sta.infinitefrontier.sg/static/media/octagon-3.0b50f54c.svg"
   },
   {
     "revision": "24f7b0944e9e03a905f9d7701573b2cd",
@@ -160,8 +260,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://sta.infinitefrontier.sg/static/media/red-fill.c65ffdea.svg"
   },
   {
+    "revision": "909b3a167221625012b285f0d084340c",
+    "url": "https://sta.infinitefrontier.sg/static/media/slider-arrow.909b3a16.svg"
+  },
+  {
     "revision": "8337bc1daf09e89c7cf679ea4b672ab6",
     "url": "https://sta.infinitefrontier.sg/static/media/splash.8337bc1d.svg"
+  },
+  {
+    "revision": "80e8995b47e07f4073e9141476e04c8d",
+    "url": "https://sta.infinitefrontier.sg/static/media/twiggy.80e8995b.svg"
   },
   {
     "revision": "0393bb98516d4ebe7dc6bcf09e63eb3c",
