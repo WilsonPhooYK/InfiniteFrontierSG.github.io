@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://sta.infinitefrontier.sg/static/css/main.ac267d24.chunk.css",
-    "main.js": "https://sta.infinitefrontier.sg/static/js/main.d97323c2.chunk.js",
-    "main.js.map": "https://sta.infinitefrontier.sg/static/js/main.d97323c2.chunk.js.map",
+    "main.css": "https://sta.infinitefrontier.sg/static/css/main.7d09dc93.chunk.css",
+    "main.js": "https://sta.infinitefrontier.sg/static/js/main.ef3cc5fc.chunk.js",
+    "main.js.map": "https://sta.infinitefrontier.sg/static/js/main.ef3cc5fc.chunk.js.map",
     "runtime-main.js": "https://sta.infinitefrontier.sg/static/js/runtime-main.ba858364.js",
     "runtime-main.js.map": "https://sta.infinitefrontier.sg/static/js/runtime-main.ba858364.js.map",
     "static/css/2.8c1ffbf2.chunk.css": "https://sta.infinitefrontier.sg/static/css/2.8c1ffbf2.chunk.css",
     "static/js/2.8d52d259.chunk.js": "https://sta.infinitefrontier.sg/static/js/2.8d52d259.chunk.js",
     "static/js/2.8d52d259.chunk.js.map": "https://sta.infinitefrontier.sg/static/js/2.8d52d259.chunk.js.map",
     "index.html": "https://sta.infinitefrontier.sg/index.html",
-    "precache-manifest.3059deed3b55b2c66ea180d3ad11f553.js": "https://sta.infinitefrontier.sg/precache-manifest.3059deed3b55b2c66ea180d3ad11f553.js",
+    "precache-manifest.f3ddbd2ba97e566cbdd755ef52350880.js": "https://sta.infinitefrontier.sg/precache-manifest.f3ddbd2ba97e566cbdd755ef52350880.js",
     "service-worker.js": "https://sta.infinitefrontier.sg/service-worker.js",
     "static/css/2.8c1ffbf2.chunk.css.map": "https://sta.infinitefrontier.sg/static/css/2.8c1ffbf2.chunk.css.map",
-    "static/css/main.ac267d24.chunk.css.map": "https://sta.infinitefrontier.sg/static/css/main.ac267d24.chunk.css.map",
+    "static/css/main.7d09dc93.chunk.css.map": "https://sta.infinitefrontier.sg/static/css/main.7d09dc93.chunk.css.map",
     "static/media/curve-arrow.svg": "https://sta.infinitefrontier.sg/static/media/curve-arrow.894e230c.svg",
     "static/media/ellipse.svg": "https://sta.infinitefrontier.sg/static/media/ellipse.83c669c8.svg",
     "static/media/styles.global.scss": "https://sta.infinitefrontier.sg/static/media/open-sans-v17-latin-regular.de0869e3.woff",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.ba858364.js",
     "static/css/2.8c1ffbf2.chunk.css",
     "static/js/2.8d52d259.chunk.js",
-    "static/css/main.ac267d24.chunk.css",
-    "static/js/main.d97323c2.chunk.js"
+    "static/css/main.7d09dc93.chunk.css",
+    "static/js/main.ef3cc5fc.chunk.js"
   ]
 }
