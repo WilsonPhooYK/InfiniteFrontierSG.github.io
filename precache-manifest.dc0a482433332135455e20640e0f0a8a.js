@@ -1,27 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d2e6bbc1e8500e91d3a4aee2da1ea63",
+    "revision": "5a707083b92d9fae34c65e8b22706c57",
     "url": "https://www.infinitefrontier.sg/index.html"
   },
   {
-    "revision": "ac910a6253b0b5c95137",
+    "revision": "ccea2950d8c29b20b6ec",
     "url": "https://www.infinitefrontier.sg/static/css/2.55e45d30.chunk.css"
   },
   {
-    "revision": "16a5169e4510f201f7b7",
-    "url": "https://www.infinitefrontier.sg/static/css/main.5fb2c6b7.chunk.css"
+    "revision": "15b9ff8819eee44b32b0",
+    "url": "https://www.infinitefrontier.sg/static/css/main.cd6af81e.chunk.css"
   },
   {
-    "revision": "ac910a6253b0b5c95137",
-    "url": "https://www.infinitefrontier.sg/static/js/2.2a85a005.chunk.js"
+    "revision": "ccea2950d8c29b20b6ec",
+    "url": "https://www.infinitefrontier.sg/static/js/2.a3ad7d2e.chunk.js"
   },
   {
-    "revision": "16a5169e4510f201f7b7",
-    "url": "https://www.infinitefrontier.sg/static/js/main.35da154a.chunk.js"
+    "revision": "15b9ff8819eee44b32b0",
+    "url": "https://www.infinitefrontier.sg/static/js/main.bdfb4013.chunk.js"
   },
   {
     "revision": "8f887f097b961273f9c1",
     "url": "https://www.infinitefrontier.sg/static/js/runtime-main.bd24f52b.js"
+  },
+  {
+    "revision": "3aa5dcbccaab655636f1682bfe2345d2",
+    "url": "https://www.infinitefrontier.sg/static/media/arrow_right.3aa5dcbc.svg"
+  },
+  {
+    "revision": "b3f49afdaa769bc2cb267d590e308ae0",
+    "url": "https://www.infinitefrontier.sg/static/media/bars.b3f49afd.svg"
+  },
+  {
+    "revision": "2c0862a67bfb8773d52c7833e17cd5ca",
+    "url": "https://www.infinitefrontier.sg/static/media/chevron_down.2c0862a6.svg"
+  },
+  {
+    "revision": "3b30c82204fe750dcaa3c5113585f6ee",
+    "url": "https://www.infinitefrontier.sg/static/media/chevron_up.3b30c822.svg"
   },
   {
     "revision": "894e230cd2af3d751d89f4d457e35984",
@@ -146,6 +162,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8337bc1daf09e89c7cf679ea4b672ab6",
     "url": "https://www.infinitefrontier.sg/static/media/splash.8337bc1d.svg"
+  },
+  {
+    "revision": "bb7daa97874804191be47e5cd858409e",
+    "url": "https://www.infinitefrontier.sg/static/media/times_circle.bb7daa97.svg"
   },
   {
     "revision": "80e8995b47e07f4073e9141476e04c8d",
