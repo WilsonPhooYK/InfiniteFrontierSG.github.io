@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://www.infinitefrontier.sg/static/css/main.cd6af81e.chunk.css",
-    "main.js": "https://www.infinitefrontier.sg/static/js/main.bdfb4013.chunk.js",
-    "main.js.map": "https://www.infinitefrontier.sg/static/js/main.bdfb4013.chunk.js.map",
+    "main.css": "https://www.infinitefrontier.sg/static/css/main.f59715f8.chunk.css",
+    "main.js": "https://www.infinitefrontier.sg/static/js/main.120f6324.chunk.js",
+    "main.js.map": "https://www.infinitefrontier.sg/static/js/main.120f6324.chunk.js.map",
     "runtime-main.js": "https://www.infinitefrontier.sg/static/js/runtime-main.bd24f52b.js",
     "runtime-main.js.map": "https://www.infinitefrontier.sg/static/js/runtime-main.bd24f52b.js.map",
     "static/css/2.55e45d30.chunk.css": "https://www.infinitefrontier.sg/static/css/2.55e45d30.chunk.css",
-    "static/js/2.a3ad7d2e.chunk.js": "https://www.infinitefrontier.sg/static/js/2.a3ad7d2e.chunk.js",
-    "static/js/2.a3ad7d2e.chunk.js.map": "https://www.infinitefrontier.sg/static/js/2.a3ad7d2e.chunk.js.map",
+    "static/js/2.20f650b2.chunk.js": "https://www.infinitefrontier.sg/static/js/2.20f650b2.chunk.js",
+    "static/js/2.20f650b2.chunk.js.map": "https://www.infinitefrontier.sg/static/js/2.20f650b2.chunk.js.map",
     "index.html": "https://www.infinitefrontier.sg/index.html",
-    "precache-manifest.dc0a482433332135455e20640e0f0a8a.js": "https://www.infinitefrontier.sg/precache-manifest.dc0a482433332135455e20640e0f0a8a.js",
+    "precache-manifest.379b11a277e6fe42be9fb28c01192bb8.js": "https://www.infinitefrontier.sg/precache-manifest.379b11a277e6fe42be9fb28c01192bb8.js",
     "service-worker.js": "https://www.infinitefrontier.sg/service-worker.js",
     "static/css/2.55e45d30.chunk.css.map": "https://www.infinitefrontier.sg/static/css/2.55e45d30.chunk.css.map",
-    "static/css/main.cd6af81e.chunk.css.map": "https://www.infinitefrontier.sg/static/css/main.cd6af81e.chunk.css.map",
+    "static/css/main.f59715f8.chunk.css.map": "https://www.infinitefrontier.sg/static/css/main.f59715f8.chunk.css.map",
     "static/media/arrow_right.svg": "https://www.infinitefrontier.sg/static/media/arrow_right.3aa5dcbc.svg",
     "static/media/bars.svg": "https://www.infinitefrontier.sg/static/media/bars.b3f49afd.svg",
     "static/media/chevron_down.svg": "https://www.infinitefrontier.sg/static/media/chevron_down.2c0862a6.svg",
@@ -26,6 +26,7 @@
     "static/media/green_fill.svg": "https://www.infinitefrontier.sg/static/media/green_fill.9dd0b92d.svg",
     "static/media/green_wavy.svg": "https://www.infinitefrontier.sg/static/media/green_wavy.7495b94c.svg",
     "static/media/instagram.svg": "https://www.infinitefrontier.sg/static/media/instagram.901419c3.svg",
+    "static/media/linkedin.svg": "https://www.infinitefrontier.sg/static/media/linkedin.87cdc784.svg",
     "static/media/logo.svg": "https://www.infinitefrontier.sg/static/media/logo.2126bd36.svg",
     "static/media/octagon_1.svg": "https://www.infinitefrontier.sg/static/media/octagon_1.4904275b.svg",
     "static/media/octagon_2.svg": "https://www.infinitefrontier.sg/static/media/octagon_2.2aa9cca9.svg",
@@ -44,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.bd24f52b.js",
     "static/css/2.55e45d30.chunk.css",
-    "static/js/2.a3ad7d2e.chunk.js",
-    "static/css/main.cd6af81e.chunk.css",
-    "static/js/main.bdfb4013.chunk.js"
+    "static/js/2.20f650b2.chunk.js",
+    "static/css/main.f59715f8.chunk.css",
+    "static/js/main.120f6324.chunk.js"
   ]
 }
