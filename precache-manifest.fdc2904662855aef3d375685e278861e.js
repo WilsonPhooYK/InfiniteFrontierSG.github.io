@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "414cc679e5177eb1880e94b4a5829c20",
+    "revision": "dd9e24f61ec3854b6dda1e6ff51d0564",
     "url": "https://www.infinitefrontier.sg/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.infinitefrontier.sg/static/css/2.55e45d30.chunk.css"
   },
   {
-    "revision": "997a4527db89d3ed999c",
-    "url": "https://www.infinitefrontier.sg/static/css/main.79703752.chunk.css"
+    "revision": "791b685b3faf9435f322",
+    "url": "https://www.infinitefrontier.sg/static/css/main.0396bf0f.chunk.css"
   },
   {
     "revision": "bff75b46f0fd131940f7",
     "url": "https://www.infinitefrontier.sg/static/js/2.7eb1d393.chunk.js"
   },
   {
-    "revision": "997a4527db89d3ed999c",
-    "url": "https://www.infinitefrontier.sg/static/js/main.cbde1fd0.chunk.js"
+    "revision": "791b685b3faf9435f322",
+    "url": "https://www.infinitefrontier.sg/static/js/main.667e4404.chunk.js"
   },
   {
     "revision": "8f887f097b961273f9c1",
@@ -176,19 +176,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.infinitefrontier.sg/static/media/twiggy.aed98702.svg"
   },
   {
-    "revision": "8b529ac288e89f461681019c69a8c3f9",
-    "url": "https://www.infinitefrontier.sg/static/media/why_1.8b529ac2.svg"
+    "revision": "cef249b0c1e7a62e1c4a02ed20d56803",
+    "url": "https://www.infinitefrontier.sg/static/media/why_1.cef249b0.png"
   },
   {
-    "revision": "36a37df7426756f219acc4ba417f58df",
-    "url": "https://www.infinitefrontier.sg/static/media/why_2.36a37df7.svg"
+    "revision": "d7969a0353281e388c44055d9e2cdd91",
+    "url": "https://www.infinitefrontier.sg/static/media/why_2.d7969a03.png"
   },
   {
-    "revision": "27d72759fea373b28e4e171eee345a60",
-    "url": "https://www.infinitefrontier.sg/static/media/why_3.27d72759.svg"
+    "revision": "48c96db26709eebb9ed96fc312483e11",
+    "url": "https://www.infinitefrontier.sg/static/media/why_3.48c96db2.png"
   },
   {
-    "revision": "5f24182ac9f73e445064ff9f5db1bb7d",
-    "url": "https://www.infinitefrontier.sg/static/media/why_bg.5f24182a.svg"
+    "revision": "48b46896ca9abd6ddd9926ff9eceeffd",
+    "url": "https://www.infinitefrontier.sg/static/media/why_bg.48b46896.png"
   }
 ]);
