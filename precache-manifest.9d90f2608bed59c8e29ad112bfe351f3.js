@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "747e490b768cff69b4e64357f559ea6f",
+    "revision": "9bd901e18da8e03c2032b0f4ff2039f6",
     "url": "https://www.infinitefrontier.sg/index.html"
   },
   {
