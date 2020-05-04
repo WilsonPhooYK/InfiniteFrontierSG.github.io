@@ -1,1 +1,0 @@
-{"version":3,"sources":["/Users/wilson/if/if-web/src/pages/Blog/components/History/History.module.scss"],"names":[],"mappings":"AAAA,iCACE,qBAAuB,CACvB,uCAA4C,CAC5C,kBAAmB,CACnB,YAAa","file":"24.0da2cfea.chunk.css","sourcesContent":[".historyContainer {\n  background-color: white;\n  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1);\n  border-radius: 20px;\n  padding: 30px;\n}\n"]}
