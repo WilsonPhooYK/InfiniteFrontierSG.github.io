@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ab4f6cb69209b919a52951d29c2c212",
+    "revision": "3778575e7f8319b32c2d313ce939fffe",
     "url": "https://www.infinitefrontier.sg/index.html"
   },
   {
-    "revision": "791273be634be66a73fd",
+    "revision": "39e1d8b8008ef9724743",
     "url": "https://www.infinitefrontier.sg/static/css/10.1b3364bc.chunk.css"
   },
   {
-    "revision": "54318a58b654af2ef43a",
+    "revision": "a33eb21ca6eb656b2fed",
     "url": "https://www.infinitefrontier.sg/static/css/12.494af8db.chunk.css"
   },
   {
-    "revision": "d4f58a2c5ee94ada3b3a",
+    "revision": "75afbf051a1b2fed108a",
     "url": "https://www.infinitefrontier.sg/static/css/13.656ed9d1.chunk.css"
   },
   {
@@ -28,15 +28,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.infinitefrontier.sg/static/css/16.2f74b0c1.chunk.css"
   },
   {
-    "revision": "c23b82b6b0b385bad084",
+    "revision": "1f60a12b23fa389507c9",
     "url": "https://www.infinitefrontier.sg/static/css/17.cf0a91ce.chunk.css"
   },
   {
-    "revision": "fc99fec33ee24c08510e",
+    "revision": "ce7c11822711e06aed4b",
     "url": "https://www.infinitefrontier.sg/static/css/18.7649ca96.chunk.css"
   },
   {
-    "revision": "aa9fea93994d73accebc",
+    "revision": "a9ec772d40057a0991cd",
     "url": "https://www.infinitefrontier.sg/static/css/19.63209671.chunk.css"
   },
   {
@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.infinitefrontier.sg/static/css/26.bf3d4820.chunk.css"
   },
   {
-    "revision": "d99d776b892937ec899f",
+    "revision": "a25274b9a589b3f5e4a6",
     "url": "https://www.infinitefrontier.sg/static/css/7.494af8db.chunk.css"
   },
   {
@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.infinitefrontier.sg/static/css/8.55e45d30.chunk.css"
   },
   {
-    "revision": "94475fdb0bf278301c72",
+    "revision": "26003e2f6d59a7d362d7",
     "url": "https://www.infinitefrontier.sg/static/css/9.fbced232.chunk.css"
   },
   {
@@ -88,20 +88,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.infinitefrontier.sg/static/js/1.7a2270a8.chunk.js"
   },
   {
-    "revision": "791273be634be66a73fd",
-    "url": "https://www.infinitefrontier.sg/static/js/10.bb5bb263.chunk.js"
+    "revision": "39e1d8b8008ef9724743",
+    "url": "https://www.infinitefrontier.sg/static/js/10.cca48fb9.chunk.js"
   },
   {
     "revision": "0d70dad139d9165ac958",
     "url": "https://www.infinitefrontier.sg/static/js/11.bb8749c8.chunk.js"
   },
   {
-    "revision": "54318a58b654af2ef43a",
-    "url": "https://www.infinitefrontier.sg/static/js/12.f75e87b4.chunk.js"
+    "revision": "a33eb21ca6eb656b2fed",
+    "url": "https://www.infinitefrontier.sg/static/js/12.0e600ce3.chunk.js"
   },
   {
-    "revision": "d4f58a2c5ee94ada3b3a",
-    "url": "https://www.infinitefrontier.sg/static/js/13.1d201d72.chunk.js"
+    "revision": "75afbf051a1b2fed108a",
+    "url": "https://www.infinitefrontier.sg/static/js/13.7af85f4a.chunk.js"
   },
   {
     "revision": "e46828bbeb265172220a",
@@ -116,20 +116,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.infinitefrontier.sg/static/js/16.995e78d4.chunk.js"
   },
   {
-    "revision": "c23b82b6b0b385bad084",
-    "url": "https://www.infinitefrontier.sg/static/js/17.8a8301df.chunk.js"
+    "revision": "1f60a12b23fa389507c9",
+    "url": "https://www.infinitefrontier.sg/static/js/17.33257dfe.chunk.js"
   },
   {
-    "revision": "fc99fec33ee24c08510e",
-    "url": "https://www.infinitefrontier.sg/static/js/18.ba043282.chunk.js"
+    "revision": "ce7c11822711e06aed4b",
+    "url": "https://www.infinitefrontier.sg/static/js/18.3bb5c3a3.chunk.js"
   },
   {
-    "revision": "aa9fea93994d73accebc",
-    "url": "https://www.infinitefrontier.sg/static/js/19.6c234ce7.chunk.js"
+    "revision": "a9ec772d40057a0991cd",
+    "url": "https://www.infinitefrontier.sg/static/js/19.8a811f14.chunk.js"
   },
   {
-    "revision": "0605015684b61cedb87d",
-    "url": "https://www.infinitefrontier.sg/static/js/2.61e64e76.chunk.js"
+    "revision": "acff55753c8fb8ee1340",
+    "url": "https://www.infinitefrontier.sg/static/js/2.5aaeed5b.chunk.js"
   },
   {
     "revision": "c2fc812bf7245ba4846e",
@@ -176,24 +176,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.infinitefrontier.sg/static/js/6.8d184a74.chunk.js"
   },
   {
-    "revision": "d99d776b892937ec899f",
-    "url": "https://www.infinitefrontier.sg/static/js/7.1553adff.chunk.js"
+    "revision": "a25274b9a589b3f5e4a6",
+    "url": "https://www.infinitefrontier.sg/static/js/7.3e29fa82.chunk.js"
   },
   {
     "revision": "4343461e23591786df8e",
     "url": "https://www.infinitefrontier.sg/static/js/8.4451bf07.chunk.js"
   },
   {
-    "revision": "94475fdb0bf278301c72",
-    "url": "https://www.infinitefrontier.sg/static/js/9.2eda9f01.chunk.js"
+    "revision": "26003e2f6d59a7d362d7",
+    "url": "https://www.infinitefrontier.sg/static/js/9.79dd0f09.chunk.js"
   },
   {
     "revision": "d2cac9c7710bd374a860",
     "url": "https://www.infinitefrontier.sg/static/js/main.3d4c66e4.chunk.js"
   },
   {
-    "revision": "7f6372f6670519318ea1",
-    "url": "https://www.infinitefrontier.sg/static/js/runtime-main.33c1c089.js"
+    "revision": "131c3367a460804b57de",
+    "url": "https://www.infinitefrontier.sg/static/js/runtime-main.b4d158e1.js"
   },
   {
     "revision": "eb4f49a815fa2d3cf091a48d7a46fb41",
