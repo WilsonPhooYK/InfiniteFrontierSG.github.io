@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://www.infinitefrontier.sg/precache-manifest.7b89c9878aa0e2953904f6d8bee1b9d9.js"
+  "https://www.infinitefrontier.sg/precache-manifest.5e6252f00fb3cbd40dd502eabb703989.js"
 );
 
 self.addEventListener('message', (event) => {
